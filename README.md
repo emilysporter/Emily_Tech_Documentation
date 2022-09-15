@@ -22,7 +22,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center">  <a href="#"><img alt="<3" src="http://ForTheBadge.com/images/badges/built-with-love.svg "></a></h3>
+<h3 align="center">  <a href="#"><img alt="<3" src="http://ForTheBadge.com/images/badges/built-with-love.svg"> </a></h3>
 
 
 
