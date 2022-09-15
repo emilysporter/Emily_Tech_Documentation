@@ -11,9 +11,9 @@ All links mainly point to files that are either hosted in Github or my Notion No
 </summary>
 <br>
 
-| Status | Certification | Notes | Badge Verification | Comments |
+| Status | Certification | Badge Verification | Comments |
 |-------- | -------- | -------- | -------- | -------- |
-| ✔ | **Python Essential Traning**, *pass 9/11/22* | [Training Certificate (https://github.com/emilysporter/EmilySamanthaP.github.io/blob/main/Digital_Career_Portfolio/images/Python%20Essential%20Training_Certificate%20of%20Completion.png) | Used LinkedIn provided materials by Ryan Mitchell. Great coursework to review Python skills. |
+| ✔ | **Python Essential Traning**, *pass 9/11/22* | [Training Certificate] (https://github.com/emilysporter/EmilySamanthaP.github.io/blob/main/Digital_Career_Portfolio/images/Python%20Essential%20Training_Certificate%20of%20Completion.png) | Used LinkedIn provided materials by Ryan Mitchell. Great coursework to review Python skills. |
 | ✔ | **Learning SQL Programming**, *pass 9/11/22* | [Training Certificate](https://github.com/emilysporter/EmilySamanthaP.github.io/blob/main/Digital_Career_Portfolio/images/Learning%20SQL%20Programming_Certificate%20of%20Completion.png) | *Used LinkedIn provided materials by Scott Simpson. CPE credits have been granted by National Registry of CPE Sponsors. * |
 | ✔ | **Power BI Essential Training**, *pass 9/10/22* | [Training Certificate](https://github.com/emilysporter/EmilySamanthaP.github.io/blob/main/Digital_Career_Portfolio/images/Power%20BI%20Essential%20Training_Certificate%20of%20Completion.png) | Used LinkedIN provided materials by Gini von Couter. CPE credits have been granted by National Registry of CPE Sponsors. |
 | ✔ | **Project Management Simplified**, *pass 1/20/21* | [Traning Certificate](https://github.com/emilysporter/EmilySamanthaP.github.io/blob/main/Digital_Career_Portfolio/images/Project%20Management%20Simplified_Certificate%20of%20Completion.png) | Used Linked martials provided by Chris Croft. |
